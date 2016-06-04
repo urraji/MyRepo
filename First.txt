@@ -1,6 +1,10 @@
 
 This is my first project file
 
+<<<<<<< HEAD
 hello source code..
 
 Adding more line in future..
+=======
+Adding a new line
+>>>>>>> 3679f339c1be40b4aa85bc97d93d17f45a53b9f5
